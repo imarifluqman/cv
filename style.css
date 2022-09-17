@@ -46,7 +46,7 @@ body {
   border-left: 2px solid orangered;
   border-right: 2px solid orangered;
   box-shadow: 2px 2px 20px linen;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .container form textarea {
@@ -57,7 +57,7 @@ body {
   border-left: 2px solid orangered;
   border-right: 2px solid orangered;
   box-shadow: 2px 2px 20px linen;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .container input[type=button] {
